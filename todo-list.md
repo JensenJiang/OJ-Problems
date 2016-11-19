@@ -1,0 +1,3 @@
+- Kattis/cd
+- Kattis/robotopia
+- Kattis/walrusweights
