@@ -1,3 +1,4 @@
 - Kattis/cd
 - Kattis/robotopia
 - Kattis/walrusweights
+- SPOJ/BUGLIFE
