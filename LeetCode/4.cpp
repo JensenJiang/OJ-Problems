@@ -2,7 +2,7 @@
  * Author: Jensen Jiang<jensenjiang1995@gmail.com>
  * Problem ID: 4
  * Problem Title: Median of Two Sorted Arrays
- * Keyword: binary_search, google
+ * Keyword: binary_search, google, hard
  *
  */
 
